@@ -1,4 +1,3 @@
-# Header
 # Study Account
 
 A minimal repository containing a simple network connectivity check script.
